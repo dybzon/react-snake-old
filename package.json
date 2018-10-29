@@ -1,0 +1,20 @@
+{
+  "name": "react-snake",
+  "version": "1.0.0",
+  "description": "A library that allows adding a Snake game to any webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "snake",
+    "react"
+  ],
+  "author": "Rasmus Dybkjær",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "styled-components": "^3.4.9"
+  }
+}
